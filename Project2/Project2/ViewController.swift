@@ -23,6 +23,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         
+        navigationItem.rightBarButtonItem = UIBarButtonItem(barButtonSystemItem: .action, target: self, action: #selector(showScore))
+        
         countries+=["estonia", "france", "germany", "ireland", "italy", "monaco", "nigeria", "poland", "russia", "spain", "uk", "us"]
         
         /*
@@ -61,7 +63,7 @@ class ViewController: UIViewController {
         button3.setImage(UIImage(named: countries[2]), for: .normal)
         
         title = (countries[correctAnswer].uppercased() + ", " + "Current score is \(score)")
-      
+        
         
     }
     func exitGame(action: UIAlertAction!){
@@ -101,9 +103,12 @@ class ViewController: UIViewController {
         }
         
         
-        
-        
-        
+    }
+    
+    @objc func showScore(){
+        let ss = UIAlertController(title: "SCORE", message: "current score is \(score)", preferredStyle: .alert)
+        ss.addAction(UIAlertAction(title: "continue", style: .default, handler: nil))
+        present(ss,animated: true)
     }
     
 }
