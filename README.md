@@ -5,3 +5,4 @@ These projects are contain both instructions and challanges which are answers ar
  - Project 3 is about sharing data type that we want to share. Exp: Dowloading selected picture.
  - Milestone 1 is a combine of project 1, 2 and 3 besides it contains little icons (images of flags) on the table view.
  - Project 4 was the first time we used WebBrowser, WebKit, WKWebView, observer and delegation.
+ - Project 5 was about getting input string from the user. It is a some kind of scrable game.
