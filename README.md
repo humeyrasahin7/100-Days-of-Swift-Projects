@@ -9,4 +9,6 @@ These projects are contain both instructions and challanges which are answers ar
  - Project 6: Just a simple example for how to use auto layouts, aspect ratio and auto layout anchors.
  - Milestone 2: A simple to do/shopping list by using tableView and action controller's text input. User can restart to listing after refreshing the table view by refresh navigation bar button item. 
  - Project 7: An example of how to read data from a html file/api and how to filter them. Plus we learned how to use tab bar controller and add multiple buttons.
- - Project 8: Entire user interface build in code. Text alignment, layout margins, UIFont are used.
+ - Project 8: Entire user interface build in code. Text alignment, layout margins, UIFont are used. And the other used methods are addTarget, joined, didSet, enumerated.
+ - Prpject 9: This project is an updated version of the project 7. Used the GCD framework to fetch the data in background. Learned about QoS, and performSelector method which is more easy version of async().
+ - Project 9 Challenges: Project 1, 8 and 7 modified by using GCD to fetch and process datas.
