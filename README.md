@@ -12,4 +12,4 @@ These projects are contain both instructions and challanges which are answers ar
  - Project 8: Entire user interface build in code. Text alignment, layout margins, UIFont are used. And the other used methods are addTarget, joined, didSet, enumerated.
  - Prpject 9: This project is an updated version of the project 7. Used the GCD framework to fetch the data in background. Learned about QoS, and performSelector method which is more easy version of async().
  - Project 9 Challenges: Project 1, 8 and 7 modified by using GCD to fetch and process datas.
- - Milestone 2: A simple hangman game. Used techniques are creating components and adding constraints all by code, didSet method.
+ - Milestone 3: A simple hangman game. Used techniques are creating components and adding constraints all by code, didSet method.
