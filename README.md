@@ -13,3 +13,4 @@ These projects are contain both instructions and challanges which are answers ar
  - Prpject 9: This project is an updated version of the project 7. Used the GCD framework to fetch the data in background. Learned about QoS, and performSelector method which is more easy version of async().
  - Project 9 Challenges: Project 1, 8 and 7 modified by using GCD to fetch and process datas.
  - Milestone 3: A simple hangman game. Used techniques are creating components and adding constraints all by code, didSet method.
+ - Project 10: This project is some kind of picture board which you can add picture and its name. UICollectionViewController, UIImagePickerController are used.
