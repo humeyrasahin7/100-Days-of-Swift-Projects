@@ -14,3 +14,7 @@ These projects are contain both instructions and challanges which are answers ar
  - Project 9 Challenges: Project 1, 8 and 7 modified by using GCD to fetch and process datas.
  - Milestone 3: A simple hangman game. Used techniques are creating components and adding constraints all by code, didSet method.
  - Project 10: This project is some kind of picture board which you can add picture and its name. UICollectionViewController, UIImagePickerController are used.
+ - Project 11: This project is the first time I used the SpriteKit to make games. Key points are SKSpriteNode, SKPhysicsBody, SKAction.
+ - Project 12a and 12b: This is an updated version of Project 10 by using NSCoding, Codable, UserDefaults, NSKeyedArchiver, NSKeyedUnarchiver
+ - Milestone 4: We put two different projects into one: by letting users take photos of things that interest them, add captions to them, then show those photos in a table view. Tapping the caption should show the picture in a new view controller, like we did with project 1, and we also used UserDefaults to remember the items that user added like in Project 12.
+  
