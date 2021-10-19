@@ -17,4 +17,5 @@ These projects are contain both instructions and challanges which are answers ar
  - Project 11: This project is the first time I used the SpriteKit to make games. Key points are SKSpriteNode, SKPhysicsBody, SKAction.
  - Project 12a and 12b: This is an updated version of Project 10 by using NSCoding, Codable, UserDefaults, NSKeyedArchiver, NSKeyedUnarchiver
  - Milestone 4: We put two different projects into one: by letting users take photos of things that interest them, add captions to them, then show those photos in a table view. Tapping the caption should show the picture in a new view controller, like we did with project 1, and we also used UserDefaults to remember the items that user added like in Project 12.
+ - Project 13: This project is an image filtering app by using CIImage, UISlider, CIContext, CIFilter.
   
