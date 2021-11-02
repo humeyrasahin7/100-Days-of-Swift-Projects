@@ -23,3 +23,6 @@ These projects are contain both instructions and challanges which are answers ar
  - Project 16: was about using MapKit, different map styles, pins.
  - Project 17: Another game project using sprite kit, timer, physicsBody
  - Project 18: Was an technique project about debugging, break points, view debugging
+ - Project 19: An example of creating and using Safari extensions.
+ - Project 20: Made a game using UIBezierPath, SKAction follow(), Emitter nodes.
+ - Project 21: Another technique project which was about using user notifications.
