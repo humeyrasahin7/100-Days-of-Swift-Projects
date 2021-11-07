@@ -26,3 +26,4 @@ These projects are contain both instructions and challanges which are answers ar
  - Project 19: An example of creating and using Safari extensions.
  - Project 20: Made a game using UIBezierPath, SKAction follow(), Emitter nodes.
  - Project 21: Another technique project which was about using user notifications.
+ - Project 22: An application that detects how far is the user from Beacon. CoreLocation, CLLocationManager, CLBeaconRegion used.
