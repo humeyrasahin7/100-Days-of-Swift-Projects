@@ -1,5 +1,6 @@
 # 100-Days-of-Swift-Projects
-These projects are contain both instructions and challanges which are answers are not provided by the instructor.
+These projects are contain both instructions and challanges which are answers are not provided by the instructor. Here is the link: 
+https://www.hackingwithswift.com/100
  - Project 1: An example of how you can use TableViewController, TableView and Navigaion Bar 
  - Project 2: A simple game to practice for using UI Alert Controller, UIButton
  - Project 3: About sharing data type that we want to share. Exp: Dowloading selected picture.
