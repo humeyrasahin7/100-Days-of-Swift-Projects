@@ -30,3 +30,4 @@ https://www.hackingwithswift.com/100
  - Project 22: An application that detects how far is the user from Beacon. CoreLocation, CLLocationManager, CLBeaconRegion used.
  - Project 23: A simple clone of the Fruit Ninja game by using CoreLocation, CLBeaconRegion, CLLocationManager, UIBezierPath, AVAudioPlayer.
  - Project 24: This project is a simple technique project that teahces how to attribute Strings.
+ - Project 25: This ptoject was about multipeer networking, which allows users to make direct connections to those nearby to them by using MCSession, MCBrowserViewController, UICollectionView
