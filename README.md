@@ -31,4 +31,4 @@ https://www.hackingwithswift.com/100
  - Project 23: A simple clone of the Fruit Ninja game by using CoreLocation, CLBeaconRegion, CLLocationManager, UIBezierPath, AVAudioPlayer.
  - Project 24: This project is a simple technique project that teahces how to attribute Strings.
  - Project 25: This ptoject was about multipeer networking, which allows users to make direct connections to those nearby to them by using MCSession, MCBrowserViewController, UICollectionView
- - Project 26: I learned how to load a game level from a file and how to create custom physics bitmasks, while also getting some practice with fatalError(), SKAction, categoryBitMask, collisionBitMask, contactTestBitMask, CMMotionManager, #if targetEnvironment(simulator)
+ - Project 26: I learned how to load a game level from a file and how to create custom physics bitmasks, while also getting some practice with fatalError(), SKAction, categoryBitMask, collisionBitMask, contactTestBitMask, CMMotionManager, #iftargetEnvironment(simulator)
