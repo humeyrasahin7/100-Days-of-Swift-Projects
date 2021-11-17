@@ -32,3 +32,4 @@ https://www.hackingwithswift.com/100
  - Project 24: This project is a simple technique project that teahces how to attribute Strings.
  - Project 25: This ptoject was about multipeer networking, which allows users to make direct connections to those nearby to them by using MCSession, MCBrowserViewController, UICollectionView
  - Project 26: I learned how to load a game level from a file and how to create custom physics bitmasks, while also getting some practice with fatalError(), SKAction, categoryBitMask, collisionBitMask, contactTestBitMask, CMMotionManager, #iftargetEnvironment(simulator)
+ - Project 27: This project is another technique project about drawing and rendering pictures, PDF's etc. by using UICoreGraphicsImageRenderer, Core Graphics
