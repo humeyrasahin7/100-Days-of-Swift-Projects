@@ -34,3 +34,4 @@ https://www.hackingwithswift.com/100
  - Project 26: I learned how to load a game level from a file and how to create custom physics bitmasks, while also getting some practice with fatalError(), SKAction, categoryBitMask, collisionBitMask, contactTestBitMask, CMMotionManager, #iftargetEnvironment(simulator)
  - Project 27: This project is another technique project about drawing and rendering pictures, PDF's etc. by using UICoreGraphicsImageRenderer, Core Graphics
  - Project 28: Project was about using KeyChain which is an MIT licenced open source code and using the authentication of FaceID and TouchID
+ - Project 29: Another game by using SpriteKit and UIKit together this time.
